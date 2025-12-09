@@ -105,7 +105,7 @@ if __name__ == "__main__":
     # Test 3 long sentence
     run_experiment(
         exp_id="Test 3",
-        target_sentence="May the force be with you.",
+        target_sentence="May the force be with you, young Skywalker.",
         population_size=200,
         max_generations=50000,
         mutation_rate=0.3
